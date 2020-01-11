@@ -1,0 +1,30 @@
+{
+  "name": "cra-template-veraclins",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "redux-toolkit",
+    "styled-components",
+    "react hooks"
+  ],
+  "description": "Opinionated batteries-included TypeScript template for Create React App.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/veraclins/cra-template-veraclins.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.10"
+  },
+  "bugs": {
+    "url": "https://github.com/veraclins/cra-template-veraclins/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
